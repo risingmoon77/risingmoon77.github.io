@@ -42,7 +42,7 @@ $('a[href*="#"]')
 
 document.addEventListener('DOMContentLoaded',function(event){
   // array with texts to type in typewriter
-  var dataText = [ "........","I Specialize in","Websites", "Landing Pages", "Clean User Interface","........","Heading towards","Web-App Development","Thank you for Visiting","& Enjoy your stay!"];
+  var dataText = [ "........","I Specialize in","Websites", "Landing Pages", "Clean User Interface","........","Heading towards.....","Web-App Development","Thank you for Visiting","& Enjoy your stay!!!!!"];
   
   // type one text in the typwriter
   // keeps calling itself until the text is finished
