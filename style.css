@@ -416,13 +416,13 @@ a, #services, #footer-inner, #skills, #Portfolio {
 }
 .door-left {
 	left: -55%;
-	background-color: rgb(91,96,106);
+	background-color: rgba(91,96,106,0.5);
 	transform: skew(-45deg);    /*-53.2deg for perfect diagonal corner*/
 	width: 115%;
 }
 .door-right {
 	left: 50%;
-	background-color: rgb(74, 181, 156);
+	background-color: rgba(74, 181, 156,0.8);
 	transform: skew(-45deg); 	/*-53.2deg for perfect diagonal corner*/
 	width: 110%;
 }
