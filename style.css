@@ -422,7 +422,7 @@ a, #services, #footer-inner, #skills, #Portfolio {
 }
 .door-right {
 	left: 50%;
-	background-color: rgba(74, 181, 156,0.8);
+	background-color: rgba(79, 153, 136, 0.8);
 	transform: skew(-45deg); 	/*-53.2deg for perfect diagonal corner*/
 	width: 110%;
 }
