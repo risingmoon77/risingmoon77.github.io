@@ -84,17 +84,9 @@ document.addEventListener('DOMContentLoaded',function(event){
 });
 
 
-/*
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
 
-
-/// Scroll fade in when 2000px from the top 
-$(window).scroll(function() {
-  if ($(this).scrollTop()> 2000) {
-    $('.back-to-top').fadeIn(500);
-   } else {
-    $('.back-to-top').fadeOut(500);
-   }
-});
-
-*/
 
