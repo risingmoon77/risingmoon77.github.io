@@ -84,9 +84,3 @@ document.addEventListener('DOMContentLoaded',function(event){
 });
 
 
-function openInNewTab(url) {
-  var win = window.open(url, '_blank');
-  win.focus();
-}
-
-
